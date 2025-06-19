@@ -1,0 +1,11 @@
+frontend-battle/
+├── assets/
+│   ├── homepage.mp4
+│   ├── loader.mp4
+│   ├── cards.png
+│   ├── stats.png
+│   ├── ...
+├── index.html
+├── style.css
+├── script.js
+└── README.md
