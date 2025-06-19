@@ -1,0 +1,13 @@
+## 🤖 AI Tools Used
+
+- 🧠 **ChatGPT** (UI layout, code refactor, README content)
+- 💡 **VS Code IntelliSense** (syntax and linting)
+- 🔥 **Live Server** (local testing and hot reload)
+
+## 🧪 Local Setup
+
+Clone the repository and open `index.html` in any browser:
+```bash
+git clone https://github.com/hrhuzair/frontend-battle.git
+cd frontend-battle
+# Open index.html in Chrome/Edge/Firefox
